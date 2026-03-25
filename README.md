@@ -38,3 +38,4 @@ Tests conducted with **1,000,000 reference points** (unless specified):
 * NVIDIA GPU (tested on architecture with 40 SMs)
 * CUDA Toolkit
 * [CUB Library](https://nvlabs.github.io/cub/)
+.
